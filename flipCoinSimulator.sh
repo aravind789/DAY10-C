@@ -7,7 +7,7 @@ total_heads=0
 total_tails=0
 count=0
 
-declare -A double
+declare -A doublet
 doublet[first_combination]=" "
 doublet[second_combination]=" "
 doublet[third_combination]=" "
